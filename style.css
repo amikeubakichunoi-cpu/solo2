@@ -119,3 +119,12 @@ h2 {
 .buttons > button:active {
   transform: scale(0.96);
 }
+
+
+@media (max-width: 667px) {
+
+  .container {
+    margin: 1.5em;
+  }
+
+}
